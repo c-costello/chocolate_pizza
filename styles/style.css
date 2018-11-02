@@ -1,0 +1,44 @@
+* {
+  outline: 1px solid black;
+}
+
+header {
+  margin: 25px 100px 25px 100px;
+}
+
+
+#headersection1 img {
+  position: absolute;
+  top: 25px;
+  left: 100px;
+  width: 50px;
+}
+#headersection1 h3 {
+  position: absolute;
+  top: 25px;
+  left: 150px;
+}
+#headersection1 h4 {
+  position: absolute;
+  top: 55px;
+  left: 150px;
+}
+
+#icons {
+  position: absolute;
+  left: 700px;
+}
+
+
+
+/* header img {
+  position: absolute;
+}
+
+h3 {
+  position: absolute;
+}
+
+h4 {
+  position: absolute;
+} */
