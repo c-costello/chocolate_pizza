@@ -58,3 +58,25 @@ main section:first-child img {
   width: 960px;
 
 }
+#p2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#p3 {
+  padding-bottom: 30px;
+}
+#ingredients {
+  position: relative;
+}
+
+#listOne {
+  position: absolute;
+  left:70px;
+  top:20px;
+}
+#listTwo {
+  position: absolute;
+  right: 100px;
+  top: 20px;
+}
